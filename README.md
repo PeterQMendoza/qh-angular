@@ -1,6 +1,15 @@
-# Qhawariy
+<p align="center">
+    <img src="https://github.com/PeterQMendoza/qhawariy/blob/master/qhawariy/static/img/logo_qhawariy_color.svg" width="180px" height="180px">
+</p>
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.13.
+# Qhawariy
+![Qhawariy Version](https://img.shields.io/badge/qhawariy-_v1.0-green)
+![NPM Version](https://img.shields.io/npm/v/npm)
+![Angular Version](https://img.shields.io/badge/angularcli-_v19.2.13-red)
+
+
+
+Backend del proyecto Qhawariy, permite administrar la salida de horarios de vehiculos en el transporte ublico de pasajeros
 
 ## Development server
 
